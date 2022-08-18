@@ -1,0 +1,13 @@
+.mat-card {
+  margin: 5px;
+}
+
+.mat-card-image {
+  height: 300px;
+  width: 300px;
+}
+
+.cards-container {
+ display: grid;
+ grid-template-columns: repeat(3, 1fr);
+}
